@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jpviradiya](https://github.com/jpviradiya)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **PHP**
 
-- 📫 How to reach me **jeelviradiya188@gmail.com**
+- 📫 How to reach me **jeelpv188@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14mR9OYz4RTSwod0IhbUg1mh6eNr4G-mY/view?usp=sharing](https://drive.google.com/file/d/14mR9OYz4RTSwod0IhbUg1mh6eNr4G-mY/view?usp=sharing)
 
